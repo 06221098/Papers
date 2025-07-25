@@ -317,6 +317,8 @@
 [Deep Bilateral Learning for Real-Time Image Enhancement](https://groups.csail.mit.edu/graphics/hdrnet/data/hdrnet.pdf) -google, Siggraph2017, [code](https://github.com/google/hdrnet)<br>
 
 ## Document Rectification
+[Document Image Rectification using Stable Diffusion Transformer](https://openaccess.thecvf.com/content/CVPR2025W/WiCV/html/Kumari_Document_Image_Rectification_using_Stable_Diffusion_Transformer_CVPRW_2025_paper.html) -CVPR2025<br>
+[DocReal: Robust Document Dewarping of Real-Life Images via Attention-Enhanced Control Point Prediction](https://openaccess.thecvf.com/content/WACV2024/html/Yu_DocReal_Robust_Document_Dewarping_of_Real-Life_Images_via_Attention-Enhanced_Control_WACV_2024_paper.html) -vivo, WACV2024, [code](https://github.com/irisXcoding/DocReal)<br>
 [MataDoc: Margin and Text Aware Document Dewarping for Arbitrary Boundary](https://arxiv.org/abs/2307.12571) -baidu, arxiv2023<br>
 [Deep Unrestricted Document Image Rectification](https://arxiv.org/abs/2304.08796) -arxiv2023, [code](https://github.com/fh2019ustc/DocTr-Plus)<br>
 [End-to-End Piece-Wise Unwarping of Document Images](https://openaccess.thecvf.com/content/ICCV2021/html/Das_End-to-End_Piece-Wise_Unwarping_of_Document_Images_ICCV_2021_paper.html) -amazon, ICCV2021, [code](https://github.com/sagniklp/PiecewiseUnwarp)<br>
